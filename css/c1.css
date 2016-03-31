@@ -1,0 +1,467 @@
+/* CSS Document */
+
+#container {
+    width: 990px;
+    margin: auto;
+}
+#header {
+    background-color: #003366;
+    height: 180px;
+    margin-bottom: 3px;
+}
+#menungang {
+    background-color: #333333;
+    height: 60px;
+    margin-bottom: 3px;
+}
+#content1 {
+    width: 500px;
+    height: 340px;
+    background-color: #999933;
+    float: left
+}
+#info {
+    float: left;
+    width: 485px;
+    height: 30px;
+    background-color: #996600;
+    margin-left: 5px;
+    margin-bottom: 3px;
+}
+#content2 {
+    height: 307px;
+    width: 280px;
+    background-color: #99CC66;
+    float: left;
+    margin-left: 5px;
+}
+#content3 {
+    background: #0F9;
+   
+    float: right;
+    width: 204px;
+    text-align: center;
+	padding-bottom:103.4%
+}
+#quangcao {
+    height: 90px;
+    width: 785px;
+    background-color: #990000;
+    clear: left;
+    margin-top: 3px;
+    float: left;
+    margin-bottom: 3px
+}
+#content4 {
+    background-color: #096;
+    float: left;
+    min-height: 600px;
+    width: 785px;
+}
+
+
+#templatemo_footer_panel{
+	overflow: hidden;
+	width: 950px;
+	padding: 15px 20px;
+	background: #333333;
+}
+
+#templatemo_footer_panel img{
+	margin: 0 5px 0 0;
+}
+
+#templatemo_footer_panel #footer_left {
+	float: left;
+	width: 340px;
+	padding: 0 25px 0 0;
+	margin: 0 15px 0 0;	
+	border-right: 1px solid #4c4c4c;
+
+}
+
+#templatemo_footer_panel #footer_right {
+	float: right;
+	width: 485px;
+	text-align: left;
+	
+	
+	line-height: 1.5em;
+    font-family: Verdana, Arial, san-serif;
+    font-size: 11px;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+#sitetitle {
+    font-size: 32px;
+    font-weight: bold;
+    color: #FF0;
+    position: relative;
+    top: -160px;
+    left: 30px
+}
+#bainoibat {
+    width: 500px
+}
+#bainoibat #top1 {
+    text-align: justify;
+    color: #000033;
+    height: 180px;
+    font-size: 18px;
+    overflow: hidden
+}
+#bainoibat #top1 p {
+    margin: 0
+}
+#bainoibat #top1 img {
+    margin-right: 5px;
+    width: 170px;
+    height: 140px
+}
+#bainoibat #top1 a {
+    color: #006699;
+    font-size: 20px;
+    text-decoration: none
+}
+#bainoibat #top3 {
+    margin-top: 5px
+}
+#bainoibat #top3 div {
+    float: left;
+    width: 32%;
+    text-align: center;
+    border: dotted 1px #CCFF00;
+    height: 145px;
+    overflow: hidden;
+    padding-top: 5px;
+    margin-left: 3px;
+}
+#bainoibat #top3 a {
+    text-decoration: none;
+    color: #006699
+}
+#bainoibat #top3 img {
+    width: 150px;
+    height: 100px;
+    margin-left: 5px;
+}
+#baixemnhieu {
+    overflow: hidden;
+    white-space: nowrap;
+    background-color: #FFFFCC;
+    border: 1px solid #0099CC;
+}
+#baixemnhieu h4 {
+    background-color: #0099CC;
+    color: #FFFF00;
+    margin: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+#baixemnhieu p {
+    margin: 0
+}
+#baixemnhieu a {
+    color: #CC3399;
+    text-decoration: none;
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border-bottom: 1px solid #0099CC;
+}
+#baixemnhieu a:hover {
+    color: #063;
+    background-color: #FC6
+}
+#baimoi {
+    width: 785px;
+}
+#baimoi .rows {
+    width: 385px;
+    float: left;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    height: 290px;
+    background-color: #669999;
+}
+#baimoi h4 {
+    background-color: #333333;
+    color: #FFF;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 18px;
+    margin: 0;
+}
+#baimoi h4 a {
+    text-decoration: none;
+    color: #01DF3A;
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+#baimoi h4 a:hover {
+    text-decoration: underline;
+}
+#baimoi .tindau {
+    color: #399;
+    background-color: #033;
+    height: 145px;
+    overflow: hidden;
+    text-align: justify;
+}
+#baimoi .tindau p {
+    text-align: justify;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+#baimoi .tindau img {
+    margin-right: 5px;
+    margin-top: 5px;
+    width: 120px;
+    height: 130px;
+}
+#baimoi .tindau a {
+    text-decoration: none;
+    color: #FFFF00;
+    font-weight: bold;
+}
+#baimoi .tindau a:hover {
+    text-decoration: underline;
+    color: #C09;
+}
+#baimoi .tintieptheo {
+    background-color: #CC9;
+    white-space: nowrap;
+    overflow: hidden;
+}
+#baimoi .tintieptheo p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#baimoi .tintieptheo a {
+    text-decoration: none;
+    color: #036;
+}
+#baimoi .tintieptheo a:hover {
+    text-decoration: underline;
+    color: #C09;
+}
+#baiviet_ct {
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px
+}
+#baiviet_ct h4.tieude a {
+    text-decoration: none;
+    color: #80FF00;
+    font-size: 18px
+}
+#baiviet_ct div.xem {
+    color: #C8FE2E;
+    font-style: italic;
+    text-align: right
+}
+#baiviet_ct div.tomtat {
+    color: #D0FA58;
+    font-style: italic;
+}
+#baiviet_ct div.tomtat:first-letter {
+    color: #F7FE2E;
+    font-size: 32px;
+}
+#baiviet_ct hr {
+    background-color: #DF7401;
+    height: 5px
+}
+#baitrongloai {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify
+}
+#baitrongloai h4 a {
+    color: #80FF00;
+    text-decoration: none;
+}
+#baitrongloai h4 a:hover {
+    text-decoration: underline;
+}
+#baitrongloai img {
+    width: 180px;
+    height: 140px;
+    margin-right: 10px;
+    margin-top: 15px
+}
+#baitrongloai .motbai {
+    height: 180px;
+    overflow: hidden;
+    border-bottom: solid 1px #A5DF00
+}
+#thanhphantrang {
+    margin: 10px
+}
+#thanhphantrang a {
+    color: #FF0;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 8px;
+    margin-left: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: #033;
+    border-radius: 10px;
+}
+#thanhphantrang span {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 8px;
+    margin-left: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: #000;
+    border-radius: 10px;
+}
+#thanhphantrang a:hover {
+    color: #0F6;
+    ;
+    margin-right: 8px;
+    background-color: #930
+}
+#lang {
+    position: relative;
+    top: -180px;
+    right: -800px;
+}
+#lang img {
+    margin-left: 10px;
+    cursor: pointer
+}
+#abc {
+    text-decoration: none;
+    color: yellow;
+}
+#divche {
+    width: 5000px;
+    height: 5000px;
+    background-color: #000;
+    position: absolute;
+    z-index: 9;
+    top: 0;
+    left: 0;
+    display: none
+}
+#divpopup {
+    position: fixed;
+    top: 100px;
+    left: 300px;
+    z-Index: 10;
+    width: 435px;
+    height: 330px;
+    display: none;
+    background-color: #9C3;
+    border: solid 2px #033;
+    box-shadow: 5px 5px 3px #630;
+    text-align: center;
+    font-size: 18px;
+    color: #F09
+}
+#tieudeguiykien {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;
+}
+#formykien {
+    width: 550px;
+    background: #fff;
+    border: 1px solid #ccc;
+    margin: 0px;
+}
+#formykien p span {
+    float: left;
+    width: 80px;
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+}
+.text {
+    width: 445px;
+    background: #CF6;
+    border: none;
+    height: 22px;
+    border: 1px solid #ccc;
+}
+#noidung {
+    width: 445px;
+    height: 120px;
+    border: none;
+    outline: none;
+    resize: none;
+    border: 1px solid #ccc;
+    background: #CF6;
+}
+#guiykien,
+#khongguiykien {
+    background: #033;
+    width: 140px;
+    height: 30px;
+    border: solid 1px #003333;
+    color: #0F9;
+    margin: 10px 0px 10px 0px;
+}
+#danhsach th {
+    background-color: #009999;
+    color: #FFFFFF;
+    padding-top: 5px;
+    margin-bottom: 5px
+}
+.tieude {
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 8px
+}
+.tomtat {
+    margin: 0px
+}
+.tieude span {
+    font-weight: normal;
+    font-style: italic;
+    color: #360
+}
+#idloai {
+    background-color: #CCCC66;
+    width: 160px;
+    border: 1px solid #00999;
+    display: block;
+    margin-bottom: 5px;
+}
+
+
+
+
+#userinfo { border:solid 1px #33FFCC; text-align:center; color:#DA251D}
+#userinfo h4 { background-color:#0C6; color:#CF0; 
+	height:30px; line-height:30px; margin:0}
+#userinfo a	 { text-decoration:none; color:#6FC}
+#userinfo a:hover { color:#FF0}
