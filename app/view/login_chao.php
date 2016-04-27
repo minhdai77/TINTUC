@@ -1,4 +1,4 @@
 <p>Chào <?=strtoupper ($_SESSION['authed_user']['login_user'])?></p>
-<p> <a href="vi/user/doipass/">Đổi mật khẩu</a> &nbsp; 
-    <a href="vi/user/logout">Thoát</a></p>
+<a href="<?=BASE_DIR?>vi/admin" target="_blank"><input type="button" value="Trang Quản Trị" class="button"></a>
+<p> <a href="vi/user/logout">Thoát</a></p>
 

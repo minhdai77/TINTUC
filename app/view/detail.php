@@ -14,9 +14,7 @@
     <?=$bai['tieude']?>
     </a></h4>
   <img src="<?=BASE_DIR?>img/<?=$bai['urlhinh'];?>" align=left width=140 height=100>
-  <div class="xem"> Số lần xem:
-    <?=$bai['solanxem']?>
-    . 
+  <div class="xem">
     Ngày đăng:
     <?=date('d/m/Y',strtotime($bai['ngay']))?>
   </div>
@@ -27,7 +25,7 @@
   <div id="content">
     <?=$bai['content']?>
   </div>
-  <div class="fb-comments" data-href="http://localhost:81/tintuc/vi/baiviet/detail" data-width="100%" data-numposts="5">
+  <div class="fb-comments" data-href="http://localhost:81/tintuc/vi/article/detail/<?php echo $id;?>" data-width="100%" data-numposts="5">
   </div>
   
   

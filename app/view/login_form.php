@@ -5,6 +5,4 @@
   <p> <input type="checkbox" name="nho" id="nho"> Ghi nhớ</p>
   <p> <input type="submit" name="btndn" id="btndn" value="Đăng nhập"> </p>
 </form>
-<p> <a href="user/dangky/">Đăng ký</a> &nbsp; 
-    <a href="user/quenpass/">Quên mật khẩu</a> 
-</p>
+

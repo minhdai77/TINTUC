@@ -44,7 +44,7 @@ echo $str;
 
 
 function __autoload($class_name) {
-   $filename = "class/".$class_name . '.php';
+   $filename = "controller/".$class_name . '.php';
    if (file_exists($filename)) require_once($filename); 
 }//autoload
 
@@ -57,7 +57,7 @@ function tach_url($url, &$lang,  &$cname, &$action, &$params){
 	if (in_array(  $lang, explode(',',NGONNGU)  )==false) $lang='vi';
 
 	
-	$cname = isset($arr[3]) ? $arr[3] : 'baiviet'; //Sau khi tách thì chỉ số mảng thứ 3 là class name.					
+	$cname = isset($arr[3]) ? $arr[3] : 'article'; //Sau khi tách thì chỉ số mảng thứ 3 là class name.					
 	if ($cname=="") //Nếu không có class name thì cho nó mặc định như bên dưới. 
 	{  
    		$cname=DEFAULT_CONTROLLER; 
