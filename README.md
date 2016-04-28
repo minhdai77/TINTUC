@@ -20,3 +20,4 @@
 **Trang quản trị tài khoản**
 <img src="http://i.imgur.com/T19JDeP.jpg">
 <img src="http://i.imgur.com/OYdRG6A.jpg">
+<img src="http://i.imgur.com/Wnh2Kff.jpg">
