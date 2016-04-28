@@ -17,25 +17,25 @@
       <div id="menu">
          <a href="<?=BASE_DIR?>vi/admin/account_list">
             <div class="box">
-               <img src="public/images/user.png"></br>
+               <img src="<?=BASE_DIR?>img/user.png"></br>
                <span>Quản Lý Tài Khoản</span>
             </div>
          </a>
          <a href="<?=BASE_DIR?>vi/admin/loaibaiviet_list">
             <div class="box">
-               <img src="/public/images/loaitin.png"></br>
+               <img src="<?=BASE_DIR?>img/loaitin.png"></br>
                <span>Quản Lý Loại Tin</span>
             </div>
          </a>
          <a href="<?=BASE_DIR?>vi/admin/baiviet_list">
             <div class="box">
-               <img src="/public/images/baiviet.png"></br>
+               <img src="<?=BASE_DIR?>img/baiviet.jpg"></br>
                <span>Quản Lý Bài Viết </span>
             </div>
          </a>
          <a href="<?=BASE_DIR?>">
             <div class="box">
-               <img src="/public/images/exit_1.png"></br>
+               <img src="<?=BASE_DIR?>img/exit_1.png"></br>
                <span>Thoát</span>
             </div>
          </a>

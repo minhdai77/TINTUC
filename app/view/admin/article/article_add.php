@@ -22,13 +22,13 @@
             <td width="90" height="31">
                <div align="left">Tiêu Đề</div>
             </td>
-            <td colspan="2"><input type="text" name="TieuDe"/></td>
+            <td><input type="text" name="TieuDe"/></td>
          </tr>
          <tr>
             <td width="90" height="31">
                <div align="left">Tóm Tắt</div>
             </td>
-            <td colspan="20"><textarea name='TomTat' id='TomTat' class="TomTat"></textarea></td>
+            <td><textarea name='TomTat' id='TomTat' class="TomTat"></textarea></td>
             <script>
                // Replace the <textarea id="editor1"> with a CKEditor
                // instance, using default configuration.
@@ -45,7 +45,7 @@
             <td width="90" height="31">
                <div align="left">Content</div>
             </td>
-            <td colspan="2"><textarea name="Content" id="Content"></textarea></td>
+            <td ><textarea name="Content" id="Content"></textarea></td>
             <script>
                // Replace the <textarea id="editor1"> with a CKEditor
                // instance, using default configuration.
@@ -57,18 +57,14 @@
                <div align="left">Mã Loại Tin</div>
             </td>
             <td>
-               <select name="idLoai">
-                  <?php foreach($row['idLoai'] as $rows) {?>
-                  <option value="<?php echo $rows['idLoai']?>"><?php echo $rows['idLoai'];?></option>
-                  <?php } ?> 
-               </select>
+               <input type="text" name="idLoai"/>
             </td>
          </tr>
          <tr>
             <td width="90" height="31">
                <div align="left">Nổi Bật</div>
             </td>
-            <td colspan="2"><input type="text" name="NoiBat"/></td>
+            <td><input type="text" name="NoiBat"/></td>
          </tr>
          <tr>
             <td width="90" height="31">
