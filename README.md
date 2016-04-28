@@ -1,3 +1,3 @@
 # TINTUC
 **Trang tin tức**
-<img src="C:\Users\MINHDAI\Desktop\screen photos\baivietlist.jpg">
+<img src="http://imgur.com/x6bmWIe">
