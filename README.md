@@ -1,3 +1,3 @@
 # TINTUC
 **Trang tin tức**
-<img src="http://imgur.com/x6bmWIe">
+<img src="http://i.imgur.com/x6bmWIe.jpg">
